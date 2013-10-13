@@ -1,4 +1,3 @@
-second_first_app
-================
+# Ruby on Rails Tutorial: second first application
 
-Ruby on Rails second version of first application
+This is the second practice of the first application for the [*Ruby on Rails Tutorial*](http://railstutorial.org/) by [Michael Hartl](http://michaelhartl.com/).
